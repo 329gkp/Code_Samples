@@ -5,7 +5,7 @@ analyses were conducted.   Reach me at grant.parker@mavs.uta.edu for any questio
 
 ---
 
-** Important Links ** 
+**Important Links** 
 
 Formal NSI Analysis Repository: https://github.com/icecube/wg-oscillations-ana/tree/main/HE_NSI_8yr_MEOWS
 
